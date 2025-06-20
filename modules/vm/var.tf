@@ -1,0 +1,7 @@
+variable "landingVMvar" {
+  
+}
+
+variable "nicvarModule" {
+  
+}

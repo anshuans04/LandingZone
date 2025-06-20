@@ -1,0 +1,3 @@
+variable "landing_nsg" {
+  
+}
